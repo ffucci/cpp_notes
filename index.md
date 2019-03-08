@@ -1,8 +1,9 @@
 ---
 layout: page
+title: C++ Notes
 ---
 
-**C++ Notes**
+**C++ Modern**
 
 Resources list on modern C++ topics
 
