@@ -3,7 +3,6 @@ layout: default
 title: C++ Notes
 ---
 
-
 Resources list on modern C++ topics
 
 ## Memory Management
