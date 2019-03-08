@@ -3,7 +3,11 @@ layout: default
 title: C++ Notes
 ---
 
-Resources list on modern C++ topics
+This page represents a live document on all the interesting material
+I found on Modern C++ . 
+
+It is my selection of resources to learn modern C++ topics
+
 
 ## Memory Management
 
