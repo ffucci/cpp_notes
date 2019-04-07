@@ -10,12 +10,14 @@ title: Basics
 </ul>
 </p>
 
-## MECHANISMS
+## Mechanics
 <p>
 <ul>
 <li><a href="http://thbecker.net/articles/rvalue_references/section_01.html">Rvalue References</a></li>
 <li><a href="https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c/">Undestanding lvalues and rvalues in C++</a></li>
 </ul>
 </p>
-## BOOKS
+
+## Classic books
+
 
